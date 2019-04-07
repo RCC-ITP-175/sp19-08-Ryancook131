@@ -4,12 +4,12 @@ console.log("exercise3.js start");
 // the customersObj as an argument and performs the
 // following actions.
 // 1) Iterates through the object and sorts the customers
-//    alphabetically by last name
-// 2) Assigns each customer a new customerID starting at 100
-//    and incrementing by 1 for each customer
-// 3) Divides each customer's balance by half. Round down any customers
+//    alphabetically by last name and assigns each customer 
+//    a new customerID starting at 100 and incrementing 
+//    by 1 for each customer
+// 2) Divides each customer's balance by half. Round down any customers
 //    whose new balance gives them a half penny.
-// 4) Outputs each customer's new information in this format
+// 3) Outputs each customer's new information in this format
 //    First Last is now #customerID with a balance of $1234.56
 
 var customersObj = {

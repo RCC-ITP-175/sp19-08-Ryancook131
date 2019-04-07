@@ -1,8 +1,8 @@
 console.log("exercise2.js start");
 // INSTRUCTIONS
 // Write a function named largestBalance that accepts
-// customersObj as an argument and returns the
-// customer with the largest balance in this format.
+// customersObj as an argument iterates through the object
+// and returns the customer with the largest balance in this format.
 // First Last has the largest balance.
 
 var customersObj = {

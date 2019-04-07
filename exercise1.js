@@ -1,7 +1,7 @@
 console.log("exercise1.js start");
 // INSTRUCTIONS
 // Write a function named getAllCustomers that accepts the customerObj
-// as an arugement and uses loops to return all customers in this format.
+// as an argument and iterates through the object to return all customers in this format.
 // First Last, customer #customerID has a balance of $1234.56
 
 var customersObj = {
