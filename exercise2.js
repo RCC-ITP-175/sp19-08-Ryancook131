@@ -49,8 +49,13 @@ var customersObj = {
     }
 };
 
-
-
+function LargestBalance (balance) 
+for (var customersObj, n = array.length; i < n; ++i) {
+  if (LargestBalance >= 0 ? array [i] > array[LargestBalance] : array[i] >= -Infinity} {
+    LargestBalance = i;
+  }
+}
+return LargestBalance >= 0 ? array[LargestBalance] : first + " " + last + " " + "has the largest balance"
 
 
 

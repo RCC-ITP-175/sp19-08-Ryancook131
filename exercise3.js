@@ -60,6 +60,11 @@ var customersObj = {
 
 
 
+function resetCustomers (customerObj)
+
+
+
+
 
 
 

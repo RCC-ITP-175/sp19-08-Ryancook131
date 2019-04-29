@@ -46,6 +46,9 @@ var customersObj = {
     }
 };
 
+function getAllCustomers (first, last, customerID, balance)
+return this.first + " " + last + "," + " " + "customer" + customerID + "has a balance of" + balance.toFixed(2)
+}
 
 
 
